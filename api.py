@@ -4,6 +4,9 @@ def get_users():
 def get_info():
     return "some info"
 
+def get_orders():
+    return ["order1", "order2"]
+
 def get_version():
     return "1.0.0"
 
